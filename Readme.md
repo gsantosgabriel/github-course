@@ -1,9 +1,8 @@
-# Gitcourse
+# Git Course
 
-Este é um arquivo teste para treino do git funciona
-pular linha
-mais umalinha de teste para fazer todo o proceidmento padrãode git commit e 
-git add
-teste de mais uma linha
+Este é um arquivo teste para treino do git funciona.
 
-Teste de mais uma linha da aula sobre Diff
+Essaé uma linha de teste para fazer todo o proceidmento padrão de git commit e 
+git add.
+
+Teste de mais uma linha sobre, git diff, git log, git push etc.
